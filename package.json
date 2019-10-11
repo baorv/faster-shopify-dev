@@ -1,6 +1,6 @@
 {
   "name": "faster-shopify-dev",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "bin/index.js",
   "license": "MIT",
   "author": "baorv <roanvanbao@gmail.com>",
@@ -34,12 +34,5 @@
     "eslint-config-prettier": "^6.3.0",
     "eslint-plugin-prettier": "^3.1.1",
     "prettier": "^1.18.2"
-  },
-  "files": [
-    "./bin/index.js",
-    "./bin/runner.js",
-    "./bin/helpers.js",
-    "ssl.crt",
-    "ssl.key"
-  ]
+  }
 }
