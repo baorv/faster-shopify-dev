@@ -1,6 +1,6 @@
 {
   "name": "faster-shopify-dev",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "bin/index.js",
   "license": "MIT",
   "author": "baorv <roanvanbao@gmail.com>",
@@ -18,6 +18,9 @@
     "locally",
     "ngrok-replacement"
   ],
+  "engines": {
+    "node": ">=8.6.0"
+  },
   "bin": {
     "fashopify": "bin/index.js"
   },
