@@ -1,0 +1,40 @@
+{
+  "name": "faster-shopify-dev",
+  "version": "0.0.1",
+  "main": "bin/index.js",
+  "license": "MIT",
+  "author": "baorv <roanvanbao@gmail.com>",
+  "homepage": "https://github.com/baorv/faster-shopify-dev",
+  "bugs": {
+    "url": "https://github.com/baorv/faster-shopify-dev/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:baorv/faster-shopify-dev.git"
+  },
+  "keywords": [
+    "shopify",
+    "development",
+    "locally",
+    "ngrok-replacement"
+  ],
+  "bin": {
+    "fashopify": "bin/index.js"
+  },
+  "dependencies": {
+    "http-proxy": "^1.18.0",
+    "ora": "^4.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^6.5.1",
+    "eslint-config-google": "^0.14.0",
+    "eslint-config-prettier": "^6.3.0",
+    "eslint-plugin-prettier": "^3.1.1",
+    "prettier": "^1.18.2"
+  },
+  "files": [
+    "./bin",
+    "ssl.crt",
+    "ssl.key"
+  ]
+}
