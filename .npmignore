@@ -1,4 +1,6 @@
 *
-!bin/*
+!bin/index.js
+!bin/runner.js
+!bin/helpers.js
 !ssl.crt
 !ssl.key
