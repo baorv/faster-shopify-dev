@@ -37,6 +37,16 @@ https://localhost:<target port>
 https://localhost:9000
 ```
 
+## Common issues
+
+* When you try, it can throw an error like that
+
+![Content Security Policy Error](./screenshot.png)
+
+**Solution**
+
+Install [Disable Content-Security-Policy (CSP)](https://chrome.google.com/webstore/detail/disable-content-security/ieelmcmcagommplceebfedjlakkhpden) to disable CSP in Chromium browers 
+
 ## Issue
 
 If you have any issue or question, please [create new issue](https://github.com/baorv/faster-shopify-dev/issues/new)
