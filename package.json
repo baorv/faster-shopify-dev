@@ -1,6 +1,6 @@
 {
   "name": "faster-shopify-dev",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "main": "bin/index.js",
   "license": "MIT",
   "author": "baorv <roanvanbao@gmail.com>",
